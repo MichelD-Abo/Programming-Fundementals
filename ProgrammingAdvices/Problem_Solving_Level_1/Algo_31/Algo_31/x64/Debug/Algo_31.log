@@ -1,0 +1,5 @@
+﻿  Algo_31.cpp
+C:\Users\Michel Delli Abo\Desktop\Intro-Cpp\Problem_Solving\Algo_31\Algo_31\Algo_31.cpp(7,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Michel Delli Abo\Desktop\Intro-Cpp\Problem_Solving\Algo_31\Algo_31\Algo_31.cpp(15,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Michel Delli Abo\Desktop\Intro-Cpp\Problem_Solving\Algo_31\Algo_31\Algo_31.cpp(22,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Algo_31.vcxproj -> C:\Users\Michel Delli Abo\Desktop\Intro-Cpp\Problem_Solving\Algo_31\x64\Debug\Algo_31.exe

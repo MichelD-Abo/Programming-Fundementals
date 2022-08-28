@@ -1,0 +1,4 @@
+﻿  Algo_47.cpp
+C:\Users\Michel Delli Abo\Desktop\Programming\C++\Problem_Solving2\Algo_47\Algo_47\Algo_47.cpp(59,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Michel Delli Abo\Desktop\Programming\C++\Problem_Solving2\Algo_47\Algo_47\Algo_47.cpp(45): warning C4715: 'myRound': not all control paths return a value
+  Algo_47.vcxproj -> C:\Users\Michel Delli Abo\Desktop\Programming\C++\Problem_Solving2\Algo_47\x64\Debug\Algo_47.exe

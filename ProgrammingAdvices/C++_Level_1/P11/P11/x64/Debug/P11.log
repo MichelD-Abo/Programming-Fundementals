@@ -1,0 +1,4 @@
+﻿  P11.cpp
+C:\Users\Michel Delli Abo\Desktop\Intro-Cpp\P11\P11\P11.cpp(24,15): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Michel Delli Abo\Desktop\Intro-Cpp\P11\P11\P11.cpp(35,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  P11.vcxproj -> C:\Users\Michel Delli Abo\Desktop\Intro-Cpp\P11\x64\Debug\P11.exe

@@ -1,0 +1,4 @@
+﻿  Algo_20.cpp
+C:\Users\Michel Delli Abo\Desktop\Intro-Cpp\Problem_Solving\Algo_20\Algo_20\Algo_20.cpp(8,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Michel Delli Abo\Desktop\Intro-Cpp\Problem_Solving\Algo_20\Algo_20\Algo_20.cpp(9,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Algo_20.vcxproj -> C:\Users\Michel Delli Abo\Desktop\Intro-Cpp\Problem_Solving\Algo_20\x64\Debug\Algo_20.exe

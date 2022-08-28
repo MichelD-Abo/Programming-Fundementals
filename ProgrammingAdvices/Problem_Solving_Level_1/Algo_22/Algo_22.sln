@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Algo_22", "Algo_22\Algo_22.vcxproj", "{FE1143C6-FE85-47FB-9C43-1BC5ED0B5AAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE1143C6-FE85-47FB-9C43-1BC5ED0B5AAE}.Debug|x64.ActiveCfg = Debug|x64
+		{FE1143C6-FE85-47FB-9C43-1BC5ED0B5AAE}.Debug|x64.Build.0 = Debug|x64
+		{FE1143C6-FE85-47FB-9C43-1BC5ED0B5AAE}.Debug|x86.ActiveCfg = Debug|Win32
+		{FE1143C6-FE85-47FB-9C43-1BC5ED0B5AAE}.Debug|x86.Build.0 = Debug|Win32
+		{FE1143C6-FE85-47FB-9C43-1BC5ED0B5AAE}.Release|x64.ActiveCfg = Release|x64
+		{FE1143C6-FE85-47FB-9C43-1BC5ED0B5AAE}.Release|x64.Build.0 = Release|x64
+		{FE1143C6-FE85-47FB-9C43-1BC5ED0B5AAE}.Release|x86.ActiveCfg = Release|Win32
+		{FE1143C6-FE85-47FB-9C43-1BC5ED0B5AAE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {903A54B4-A6C3-4392-888D-870E0663F5F3}
+	EndGlobalSection
+EndGlobal

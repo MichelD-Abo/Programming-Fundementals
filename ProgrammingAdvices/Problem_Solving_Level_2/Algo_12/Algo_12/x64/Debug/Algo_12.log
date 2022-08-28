@@ -1,0 +1,8 @@
+﻿  Algo_12.cpp
+C:\Users\Michel Delli Abo\Desktop\Programming\C++\Problem_Solving2\Algo_12\Algo_12\Algo_12.cpp(41,19): error C3927: '->': trailing return type is not allowed after a non-function declarator
+C:\Users\Michel Delli Abo\Desktop\Programming\C++\Problem_Solving2\Algo_12\Algo_12\Algo_12.cpp(41,19): error C3484: syntax error: expected '->' before the return type
+C:\Users\Michel Delli Abo\Desktop\Programming\C++\Problem_Solving2\Algo_12\Algo_12\Algo_12.cpp(41,20): error C3872: '0xa9': this character is not allowed in an identifier
+C:\Users\Michel Delli Abo\Desktop\Programming\C++\Problem_Solving2\Algo_12\Algo_12\Algo_12.cpp(41,20): error C3613: missing return type after '->' ('int' assumed)
+C:\Users\Michel Delli Abo\Desktop\Programming\C++\Problem_Solving2\Algo_12\Algo_12\Algo_12.cpp(41,26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Michel Delli Abo\Desktop\Programming\C++\Problem_Solving2\Algo_12\Algo_12\Algo_12.cpp(41,20): error C2146: syntax error: missing ';' before identifier 'com©'
+C:\Users\Michel Delli Abo\Desktop\Programming\C++\Problem_Solving2\Algo_12\Algo_12\Algo_12.cpp(41,49): error C2014: preprocessor command must start as first nonwhite space
