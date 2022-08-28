@@ -1,0 +1,4 @@
+﻿  Algo_5.cpp
+C:\Users\Michel Delli Abo\Desktop\Intro-Cpp\Problem_Solving\Algo_5\Algo_5\Algo_5.cpp(151): warning C4715: 'hasDriverLicenceFunction': not all control paths return a value
+C:\Users\Michel Delli Abo\Desktop\Intro-Cpp\Problem_Solving\Algo_5\Algo_5\Algo_5.cpp(138): warning C4715: 'hasRefferalsFunction': not all control paths return a value
+  Algo_5.vcxproj -> C:\Users\Michel Delli Abo\Desktop\Intro-Cpp\Problem_Solving\Algo_5\x64\Debug\Algo_5.exe

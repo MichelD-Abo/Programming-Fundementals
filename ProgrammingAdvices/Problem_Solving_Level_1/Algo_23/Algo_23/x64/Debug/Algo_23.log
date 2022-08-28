@@ -1,0 +1,4 @@
+﻿  Algo_23.cpp
+C:\Users\Michel Delli Abo\Desktop\Intro-Cpp\Problem_Solving\Algo_23\Algo_23\Algo_23.cpp(8,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Michel Delli Abo\Desktop\Intro-Cpp\Problem_Solving\Algo_23\Algo_23\Algo_23.cpp(11,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Algo_23.vcxproj -> C:\Users\Michel Delli Abo\Desktop\Intro-Cpp\Problem_Solving\Algo_23\x64\Debug\Algo_23.exe

@@ -1,0 +1,3 @@
+﻿  Algo_40.cpp
+C:\Users\Michel Delli Abo\Desktop\Intro-Cpp\Problem_Solving\Algo_40\Algo_40\Algo_40.cpp(14,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Algo_40.vcxproj -> C:\Users\Michel Delli Abo\Desktop\Intro-Cpp\Problem_Solving\Algo_40\x64\Debug\Algo_40.exe

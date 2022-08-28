@@ -1,0 +1,6 @@
+﻿  Algo_34.cpp
+C:\Users\Michel Delli Abo\Desktop\Intro-Cpp\Problem_Solving\Algo_34\Algo_34\Algo_34.cpp(9,20): warning C4305: 'return': truncation from 'double' to 'float'
+C:\Users\Michel Delli Abo\Desktop\Intro-Cpp\Problem_Solving\Algo_34\Algo_34\Algo_34.cpp(13,20): warning C4305: 'return': truncation from 'double' to 'float'
+C:\Users\Michel Delli Abo\Desktop\Intro-Cpp\Problem_Solving\Algo_34\Algo_34\Algo_34.cpp(17,20): warning C4305: 'return': truncation from 'double' to 'float'
+C:\Users\Michel Delli Abo\Desktop\Intro-Cpp\Problem_Solving\Algo_34\Algo_34\Algo_34.cpp(21,20): warning C4305: 'return': truncation from 'double' to 'float'
+  Algo_34.vcxproj -> C:\Users\Michel Delli Abo\Desktop\Intro-Cpp\Problem_Solving\Algo_34\x64\Debug\Algo_34.exe
