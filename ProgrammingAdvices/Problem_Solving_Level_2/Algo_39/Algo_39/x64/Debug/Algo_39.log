@@ -1,0 +1,3 @@
+﻿  Algo_39.cpp
+C:\Users\Michel Delli Abo\Desktop\Programming\C++\Problem_Solving2\Algo_39\Algo_39\Algo_39.cpp(41,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Algo_39.vcxproj -> C:\Users\Michel Delli Abo\Desktop\Programming\C++\Problem_Solving2\Algo_39\x64\Debug\Algo_39.exe

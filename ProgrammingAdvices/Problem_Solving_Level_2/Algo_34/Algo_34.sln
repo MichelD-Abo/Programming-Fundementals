@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Algo_34", "Algo_34\Algo_34.vcxproj", "{C0616DE2-4903-4F95-B8C1-CD498006168B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0616DE2-4903-4F95-B8C1-CD498006168B}.Debug|x64.ActiveCfg = Debug|x64
+		{C0616DE2-4903-4F95-B8C1-CD498006168B}.Debug|x64.Build.0 = Debug|x64
+		{C0616DE2-4903-4F95-B8C1-CD498006168B}.Debug|x86.ActiveCfg = Debug|Win32
+		{C0616DE2-4903-4F95-B8C1-CD498006168B}.Debug|x86.Build.0 = Debug|Win32
+		{C0616DE2-4903-4F95-B8C1-CD498006168B}.Release|x64.ActiveCfg = Release|x64
+		{C0616DE2-4903-4F95-B8C1-CD498006168B}.Release|x64.Build.0 = Release|x64
+		{C0616DE2-4903-4F95-B8C1-CD498006168B}.Release|x86.ActiveCfg = Release|Win32
+		{C0616DE2-4903-4F95-B8C1-CD498006168B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2FA1D81-227A-485A-846B-BA5FA6BA5B80}
+	EndGlobalSection
+EndGlobal
